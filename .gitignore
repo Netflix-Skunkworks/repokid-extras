@@ -1,0 +1,11 @@
+*.pyc
+*.json
+*.log
+*.csv
+build
+dist
+.coverage
+.cache
+.DS_Store
+.DS_Store?
+*.egg-info/
