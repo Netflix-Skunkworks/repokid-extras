@@ -3,6 +3,8 @@ Repokid
 
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/netflix-repokid)
 
+[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix-Skunkworks/repokid-extras.svg)]()
+
 # Repokid Extras
 Repokid Extras is a repository for helper scripts, plugins, and others for [Repokid](https://github.com/Netflix/repokid).
 As a Skunkworks project these are not maintained or supported officially, but if you have questions you can ask in our Gitter
